@@ -19,3 +19,8 @@ age=input("enter your age: ")
 
 print("your age is ", age)
 
+#comments in python
+
+'''multiple line comments
+'''
+
