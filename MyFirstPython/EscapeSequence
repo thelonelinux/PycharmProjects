@@ -1,0 +1,12 @@
+#\n -> new line
+
+text="welcome \n to \n python"
+print(text)
+
+
+
+
+#\b -> backspace
+
+text2="welcome\b"
+print(text2)
