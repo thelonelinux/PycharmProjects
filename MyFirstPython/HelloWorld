@@ -1,0 +1,21 @@
+print ("hello world")
+
+name="vicky"
+
+print ("hello ",name,'bro')
+
+print (name)
+
+a=50
+
+print (a)
+
+
+# age=int(input("enter your age: "))
+
+age=input("enter your age: ")
+
+
+
+print("your age is ", age)
+
